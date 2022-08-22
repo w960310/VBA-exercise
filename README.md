@@ -6,7 +6,7 @@
 執行巨集後:  
 ![image](looping-pictures/自動依學生成績標色(標色後).jpg)  
   
-code:  
+Code:  
   
 ![image](looping-pictures/自動依學生成績標色(code).jpg)
   
@@ -19,3 +19,7 @@ code:
   
 執行巨集後:  
 ![image](looping-pictures/自動依學生班級建立各班級成績單(巨集後).jpg)
+  
+Code:  
+  
+![image](looping-pictures/自動依學生班級建立各班級成績單(code).jpg)
