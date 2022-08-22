@@ -8,7 +8,7 @@
   
 code:  
   
-![image]
+![image](looping-exercise-pictures/looping-pictures/自動依學生成績標色(code).jpg)
   
 ### EX2.自動依學生班級建立各班級成績單
 將混雜的全校學生成績，按照A欄的班級，自動建立各個班級的成績單。  
