@@ -35,7 +35,7 @@ While Cells(i, 3) <> ""
     Wend
     i = i + 1
 Wend
-End Sub  
+End Sub
   
   
 ### EX2.自動依學生班級建立各班級成績單
